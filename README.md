@@ -1,4 +1,5 @@
 # Task_board
+
 # Third-Party APIs: Task Board
 
 ## Your Task
@@ -39,4 +40,45 @@ The following animation demonstrates the application functionality:
 
 ![A user adds three tasks to the task board and changes the state of two of them to in progress and then completion. The user then deletes the two cards in the done column.](./Assets/05-third-party-apis-homework-demo.gif)
 
+## Screenshot
 
+![Screenshot 2024-03-28 163843](https://github.com/hemuprabu/Task_board/assets/108079829/14c30b1a-9a39-41aa-b33e-4239f503bee0)
+
+## Contact
+
+For any inquiries or questions, feel free to reach out to me at [your-email@example.com](mailto:hemalathaprakasam219@gmail.com).
+
+deployed link - [GIT_Pages]( https://hemuprabu.github.io/Task_board/)
+
+Git Link: [Github_URL](https://github.com/hemuprabu/Task_board)
+
+## Technologies Used
+
+- HTML: Used for structuring the web pages.
+- CSS: Used for styling the application and making it visually appealing.
+- JavaScript: Used for adding interactivity and dynamic functionality to the application.
+
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/hemuprabu/Task_board`
+2. Open the project folder in your preferred code editor.
+3. Open `index.html` in your web browser to view the application.
+
+## Usage
+
+- Customize the content in the HTML files to reflect your own skills, projects, and experiences.
+- Modify the CSS styles to match your preferred design and branding.
+- Add your own JavaScript code to enhance the interactivity and functionality of the application.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Authors
+
+- [@HemalathaPrakasam](https://github.com/hemuprabu)
